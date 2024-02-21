@@ -1,0 +1,163 @@
+{
+  "id": "4434210",
+  "name": "hzUI01",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "39110777",
+      "name": "线性-_放大2",
+      "font_class": "hz-zoom-in",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "39110730",
+      "name": "线性-_右双箭头",
+      "font_class": "hz-dRight",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "39110731",
+      "name": "线性-_右箭头",
+      "font_class": "hz-right",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "39110741",
+      "name": "线性-_左箭头2-128",
+      "font_class": "hz-left",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "39110743",
+      "name": "线性-_叉2",
+      "font_class": "hz-cancel",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "39110759",
+      "name": "线性-_左双箭头",
+      "font_class": "hz-dLeft",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "39110764",
+      "name": "线性-_菜单-收缩",
+      "font_class": "hz-shrinkMenu",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "39110775",
+      "name": "线性-_勾1",
+      "font_class": "hz-tick",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "39110778",
+      "name": "线性-_复制多个",
+      "font_class": "hz-copy",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "39110787",
+      "name": "线性-_上箭头",
+      "font_class": "hz-up",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "39110794",
+      "name": "线性-_菜单2",
+      "font_class": "hz-menu",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "39110795",
+      "name": "线性-_更多2",
+      "font_class": "hz-more",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "39110802",
+      "name": "线性-_设置2",
+      "font_class": "hz-settings",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "39110812",
+      "name": "线性-_首页",
+      "font_class": "hz-home",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "39110827",
+      "name": "线性-_勾2",
+      "font_class": "hz-tick2",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "39110838",
+      "name": "线性-_加2",
+      "font_class": "hz-add",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "39110844",
+      "name": "线性-_删除1",
+      "font_class": "hz-delete",
+      "unicode": "e68e",
+      "unicode_decimal": 59022
+    },
+    {
+      "icon_id": "39110850",
+      "name": "线性-_交换",
+      "font_class": "hz-switch",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "39110864",
+      "name": "线性-_锁",
+      "font_class": "hz-lock",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    },
+    {
+      "icon_id": "39110869",
+      "name": "线性-_缩小2",
+      "font_class": "hz-zoom-out",
+      "unicode": "e6a7",
+      "unicode_decimal": 59047
+    },
+    {
+      "icon_id": "39110876",
+      "name": "线性-_图片",
+      "font_class": "hz-img",
+      "unicode": "e6ad",
+      "unicode_decimal": 59053
+    },
+    {
+      "icon_id": "39110877",
+      "name": "线性-_下箭头",
+      "font_class": "hz-down",
+      "unicode": "e6ae",
+      "unicode_decimal": 59054
+    }
+  ]
+}

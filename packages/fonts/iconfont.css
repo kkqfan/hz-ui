@@ -1,0 +1,102 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4434210 */
+  src: url("iconfont.woff2?t=1707297915060") format("woff2"),
+    url("iconfont.woff?t=1707297915060") format("woff"),
+    url("iconfont.ttf?t=1707297915060") format("truetype");
+}
+
+[class*="icon-hz-"] {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-hz-zoom-in:before {
+  content: "\e64f";
+}
+
+.icon-hz-dRight:before {
+  content: "\e620";
+}
+
+.icon-hz-right:before {
+  content: "\e621";
+}
+
+.icon-hz-left:before {
+  content: "\e62b";
+}
+
+.icon-hz-cancel:before {
+  content: "\e62d";
+}
+
+.icon-hz-dLeft:before {
+  content: "\e63d";
+}
+
+.icon-hz-shrinkMenu:before {
+  content: "\e642";
+}
+
+.icon-hz-tick:before {
+  content: "\e64d";
+}
+
+.icon-hz-copy:before {
+  content: "\e650";
+}
+
+.icon-hz-up:before {
+  content: "\e657";
+}
+
+.icon-hz-menu:before {
+  content: "\e65e";
+}
+
+.icon-hz-more:before {
+  content: "\e65f";
+}
+
+.icon-hz-settings:before {
+  content: "\e666";
+}
+
+.icon-hz-home:before {
+  content: "\e66f";
+}
+
+.icon-hz-tick2:before {
+  content: "\e67d";
+}
+
+.icon-hz-add:before {
+  content: "\e688";
+}
+
+.icon-hz-delete:before {
+  content: "\e68e";
+}
+
+.icon-hz-switch:before {
+  content: "\e694";
+}
+
+.icon-hz-lock:before {
+  content: "\e6a2";
+}
+
+.icon-hz-zoom-out:before {
+  content: "\e6a7";
+}
+
+.icon-hz-img:before {
+  content: "\e6ad";
+}
+
+.icon-hz-down:before {
+  content: "\e6ae";
+}
